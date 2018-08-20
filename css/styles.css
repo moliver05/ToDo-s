@@ -1,0 +1,26 @@
+body {
+  background-image:url(https://media.giphy.com/media/l1KVboXQeiaX7FHgI/giphy.gif);
+  background-size: 100% 100%;
+  background-repeat:no-repeat;
+  color: white;
+}
+
+#show-place {
+  display: none;
+}
+
+#allPlaces {
+  cursor: pointer;
+  color: #0088cc;
+}
+
+#allPlaces:hover {
+  text-decoration: underline;
+}
+
+.btn {
+  border: 2px solid red;
+  padding: 2px;
+  color: black;
+  background-color: yellow;
+}
